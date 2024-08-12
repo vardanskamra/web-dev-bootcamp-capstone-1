@@ -2,6 +2,8 @@
 
 IFSC-Elaborator is a simple Node.js application that allows users to retrieve detailed information about a bank branch using its IFSC code. The app fetches data from the Razorpay IFSC API and displays the branch details on a webpage. 
 
+![Alt text](images/interface.png)
+
 ## Features
 Users can enter an IFSC code in the input field.
 The application sends a request to the Razorpay IFSC API and fetches branch details.
