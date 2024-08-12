@@ -21,8 +21,8 @@ Follow these steps to set up and run the application:
 Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/IFSC-Elaborator.git
-cd IFSC-Elaborator
+git clone https://github.com/vardanskamra/web-dev-bootcamp-capstone-1
+cd web-dev-bootcamp-capstone-1
 ```
 
 Install dependencies:
